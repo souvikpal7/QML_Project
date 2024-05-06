@@ -5,3 +5,15 @@ ansatz1,zz,5,0.48
 ansatz2,angle,2,0.54
 ansatz2,angle,5,0.44
 ansatz2,zz,5,0.5
+ansatz3,angle,2,0.44
+ansatz3,angle,5,0.5
+ansatz3,zz,5,0.56
+RealAmplitude,angle,2,0.92
+RealAmplitude,angle,5,0.82
+RealAmplitude,zz,5,0.56
+ansatz4,angle,2,0.54
+ansatz4,angle,5,0.42
+ansatz4,zz,5,0.44
+RealAmplitude,angle,1,0.7
+RealAmplitude,angle,3,0.84
+RealAmplitude,angle,7,0.96
