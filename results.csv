@@ -1,0 +1,7 @@
+Ansatz Name,Encoding,Depth,test_score
+ansatz1,angle,2,0.58
+ansatz1,angle,5,0.52
+ansatz1,zz,5,0.48
+ansatz2,angle,2,0.54
+ansatz2,angle,5,0.44
+ansatz2,zz,5,0.5
